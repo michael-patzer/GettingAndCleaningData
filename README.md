@@ -5,7 +5,7 @@ This repository contains the following files:
 + README.md: This file
 + run_analysis.R: The script that downloads and analyzes the source data.
 + tidyData.txt: The resulting output of the run_analysis.R script.
-+ codebook.md: A description of the variables and summaries in the script.
++ CodeBook.md: A description of the variables, data, and transformations performed to clean data within the script.
 
 ## Project criteria
 >Getting and Cleaning Data Course Project
