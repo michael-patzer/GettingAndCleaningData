@@ -1,5 +1,5 @@
 #Data
-The data represents data collected from the accelerometers from the Samsung Galaxy S smartphone.
+The data represents data collected from accelerometers from the Samsung Galaxy S smartphone.
 
 ## Original data: 
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
