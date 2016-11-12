@@ -30,7 +30,7 @@ testData <-  data.frame(testSubjects, testLabels, testSet)
 mergedData <- rbind(testData, trainingData)
 
 # Requirement 2: Extracts only the measurements on the mean and standard deviation for each measurement.
-# Use regular expression to match all feature columns with measurements of mean and standard deviation
+# Use regular expression to match all features with measurements of mean and standard deviation
 matches <- grep("mean|std", features$V2)
 
 # Select columns 1 (subject), 2 (activity), and add 2 to the matches to account for those 2 columns
